@@ -1,0 +1,28 @@
+{"fresno":
+  { "user" :
+    {
+      "firstname": "Erida-Test",
+      "lastname": "Last-Name",
+      "email": "martvardanian@gmail.com",
+      "phone_number": "+1(222)-222-2222",
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "address": "260-C North El Camino Real",
+      "zip": "9202",
+      "city": "Encinitas",
+      "appliance": "Freezer",
+      "brand": "Bosch",
+      "date": "08/30/2022",
+      "time": "10:00",
+      "am": "AM"
+    },
+    "page_info" :
+    {
+      "home_banner_title" : "Same Day Appliance Repair Services In Fresno, Clovis, Madera, Sanger, Friant And More",
+      "about_banner_title" : "About Us",
+      "contact_banner_title" : "Contact Us",
+      "services_banner_title" : "Services",
+      "brands_banner_title" : "Brands",
+      "schedule_service_banner_title" : "Schedule Service"
+    }
+  }
+}
